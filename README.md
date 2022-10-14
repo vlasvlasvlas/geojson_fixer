@@ -5,7 +5,7 @@ fixes geojson
 - Geojson fixer with Fiona, Geojson and Geopandas
 
 # Why
-
+- its useful when datasource was sending wrong invalid jsons that must be fixed.
 
 # How
 - check install_steps
