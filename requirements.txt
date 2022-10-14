@@ -1,0 +1,4 @@
+geojson
+shapely
+Fiona==1.6.0
+geopandas
